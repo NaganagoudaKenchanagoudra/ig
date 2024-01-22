@@ -11,6 +11,11 @@
         "position": {
           "basis": "300px"
         },
+        "props": {
+          "tabSize": {
+            "width": 100
+          }
+        },
         "type": "ia.container.tab"
       }
     ],
