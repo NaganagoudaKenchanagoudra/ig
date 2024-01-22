@@ -6,17 +6,12 @@
     "children": [
       {
         "meta": {
-          "name": "TabContainer"
+          "name": "FlexContainer"
         },
         "position": {
-          "basis": "300px"
+          "basis": "200px"
         },
-        "props": {
-          "tabSize": {
-            "width": 100
-          }
-        },
-        "type": "ia.container.tab"
+        "type": "ia.container.flex"
       }
     ],
     "meta": {
