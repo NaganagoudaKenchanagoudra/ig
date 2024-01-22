@@ -7,6 +7,17 @@
     "/new-page1": {
       "title": "",
       "viewPath": ""
+    },
+    "/new-page2": {
+      "title": "",
+      "viewPath": ""
+    },
+    "/new-page3": {
+      "title": "",
+      "viewPath": ""
+    },
+    "/testr": {
+      "viewPath": "testr"
     }
   },
   "sharedDocks": {

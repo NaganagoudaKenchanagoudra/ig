@@ -1,0 +1,25 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "TabContainer"
+        },
+        "position": {
+          "basis": "300px"
+        },
+        "type": "ia.container.tab"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
+  }
+}
