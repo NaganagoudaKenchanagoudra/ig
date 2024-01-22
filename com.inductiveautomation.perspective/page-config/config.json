@@ -1,9 +1,5 @@
 {
   "pages": {
-    "/": {
-      "title": "",
-      "viewPath": ""
-    },
     "/new-page": {
       "title": "",
       "viewPath": ""
