@@ -1,13 +1,5 @@
 {
   "pages": {
-    "/new-page": {
-      "title": "",
-      "viewPath": ""
-    },
-    "/new-page1": {
-      "title": "",
-      "viewPath": ""
-    },
     "/new-page2": {
       "title": "",
       "viewPath": ""
